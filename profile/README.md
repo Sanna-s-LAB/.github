@@ -6,3 +6,11 @@
 👩‍💻 We also did our best to double check our code, but if you notice any error/issue, we would love to hear from you!
 🍿 Fun facts - we are based in Sardinia, at the CNR Istitute. Sardinia is a lovely island with tasty food and fantastic beaches. We enjoy sunshine all year long, and swimming on clear salty warm water. Come visit us!
 
+
+Current alive repositories are:
+
+https://github.com/Sanna-s-LAB/Women4Health
+
+which lists code and tips used in publications from the Women4Health project
+
+
