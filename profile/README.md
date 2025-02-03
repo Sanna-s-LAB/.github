@@ -11,7 +11,7 @@ Current alive repositories are:
 
 https://github.com/Sanna-s-LAB/Women4Health
 
-which lists code and tips used in publications from the Women4Health project
+which lists code and tips used in publications from the Women4Health study
 
 and
 
