@@ -20,4 +20,4 @@ and
 
 https://github.com/Sanna-s-LAB/Mendelian-randomization-Project
 
-which lists code and tipds used in a study investigating the role of microbiome in aging related disorders
+which lists code and tipds used in a studies that implemented causal inference methods to find biological causes of diseases
