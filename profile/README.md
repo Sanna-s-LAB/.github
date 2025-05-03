@@ -2,6 +2,7 @@
 
 
 🙋‍♀️ This page is created by members of the Sanna's Lab, a group of scientists working toward understanding biology of complex diseases and physiology using omics and statistical methods
+see our graphical abstract below created with Biorender :)
 
 🌈 The code shared in this git hub relates to our publications. We did our best to make code flexible to other working environments, but we cannot guarantee they will in all OS.
 Current alive repositories are:
@@ -21,3 +22,4 @@ which lists code and tipds used in a studies that implemented causal inference m
 🍿 Fun facts - we are based in Sardinia, at the CNR Istitute. Sardinia is a lovely island with tasty food and fantastic beaches. We enjoy sunshine all year long, and swimming on clear salty warm water. Come visit us!
 
 
+![graphical abstract](https://github.com/Sanna-s-LAB/Images/blob/main/Slide_Sanna_LAB_COVERIMAGE.png?raw=true)
