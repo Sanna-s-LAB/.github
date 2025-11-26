@@ -5,16 +5,15 @@
 see our graphical abstract below created with Biorender :)
 
 🌈 The code shared in this git hub relates to our publications. We did our best to make code flexible to other working environments, but we cannot guarantee they will in all OS.
-Current alive repositories are:
+We have two repositories
 
+N1:
 * https://github.com/Sanna-s-LAB/Women4Health
-
 which lists code and tips used in publications from the Women4Health study (Busonero et al EHJOpen 2024, Vinerbi et al mSystems 2025)
 
-and
+N2:
 
 * https://github.com/Sanna-s-LAB/Mendelian-randomization-Project
-
 which lists code and tipds used in a studies that implemented causal inference methods to find biological causes of diseases  (Grosso et al, Aging 2025; Zanetti et al medrxiv 2025 )
 
 👩‍💻 We did our best to double check our code, but if you notice any error/issue, we would love to hear from you!
