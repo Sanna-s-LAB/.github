@@ -18,7 +18,7 @@ which lists code and tipds used in a study that implemented causal inference met
 
 N3:
 
-* https://github.com/Sanna-s-LAB/Sex-Dimorphism-Proteomics-MR
+* https://github.com/Sanna-s-LAB/Sex_dimorphism_MR_Proteomics
 which lists code and tipds used in a study that implemented causal inference methods to find sex specific proteins associated to lipid levels  ( Zanetti et al medrxiv 2025 )
 
 
