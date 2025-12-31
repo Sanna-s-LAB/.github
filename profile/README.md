@@ -28,7 +28,6 @@ which lists code and tipds used in a study that implemented causal inference met
 
 
 
+<img width="700"  alt="Slide_Sanna_LAB_311122025" src="https://github.com/user-attachments/assets/507374d7-ce70-4948-9f9a-bbdbb0129d41" />
 
-<p align="center">
-  <img width="800" alt="Slide_Sanna_LAB_311122025" src2bb2-4a74-a89b-0ec709f4d21b
-</p>
+
