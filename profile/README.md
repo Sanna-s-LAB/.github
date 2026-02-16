@@ -9,7 +9,7 @@ We have three repositories
 
 N1:
 * https://github.com/Sanna-s-LAB/Women4Health
-which lists code and tips used in publications from the Women4Health study (Busonero et al EHJOpen 2024, Vinerbi et al mSystems 2025)
+which lists code and tips used in publications from the Women4Health study (Busonero et al EHJOpen 2024, Vinerbi et al mSystems 2025, Zhernakova et al (submitted))
 
 N2:
 
